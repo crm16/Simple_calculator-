@@ -1,1 +1,2 @@
-# Simple_calculator- My first project
+# Simple_calculator
+Language used: Python
